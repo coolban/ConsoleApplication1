@@ -239,3 +239,5 @@ int cdlist_rem(CDList *list, CDListElmt *element, void **data) {
 	list->size--;
 	return 0;
 }
+
+//sync?
