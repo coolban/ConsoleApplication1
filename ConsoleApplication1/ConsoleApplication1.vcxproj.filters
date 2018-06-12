@@ -36,6 +36,9 @@
     <ClInclude Include="cdlist.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="dynamicarray.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -57,6 +60,9 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="cdlist.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="dynamicarray.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
